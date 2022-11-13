@@ -3,7 +3,7 @@
 set -e
 set -x
 
-mypy spock
-flake8 spock tests
-black spock tests --check
-isort spock tests scripts --check-only
+mypy fastapi_template
+flake8 fastapi_template tests
+black fastapi_template tests --check
+isort fastapi_template tests scripts --check-only
