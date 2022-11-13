@@ -1,4 +1,4 @@
-# fastapi_template
+# FastAPI Project Template
 
 <p align="center">
 
